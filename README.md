@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**AzureLinker/AzureLinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Всем привет!
+## Я - Zian U.
+***
+Я - один из членов команды AzureLink, и сейчас чусь в колледже на веб-разработчика. И сейчас я расскажу немного о себе, ну и дам какую-то информацию, которую я хочу дать:
+***
+### Немного из того, что предлагает указать GitHub:
+- Сейчас я изучаю javascript и php, ну и разные дополнительные всякие фреймворки. Также обучаюсь гиту.
+- Увлекаюсь моделированием, рендерингом.
+***
+### С чем я умею работать:
+- HTML
+- CSS
+- PHP немного
+- JavaScript немного
+***
+### Мои проекты:
+На данный момент все мои проекты - лишь те, которые я делаю для лабораторных заданий, или для зачётов. Но я надеюсь, что скоро я смогу начать делать свой первый отдельный проект, который может даже окажется полезным.
+***
+### Сатистика GitHub:
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=azurelinker&show_icons=true&theme=algolia&hide=contribs,prs"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=azurelinker&show_icons=true&theme=algolia&hide=contribs,prs"/></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=azurelinker&layout=compact&theme=algolia"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurelinker&layout=compact&theme=algolia"/></a>
+</p>
