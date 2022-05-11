@@ -14,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Cinema4D](https://img.shields.io/badge/-Cinema4D-090909?style=for-the-badge&logo=cinema-4d&logoColor=011A6A)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ***
 ### Где меня можно найти:
 [![YouTube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/c/ZianU)
