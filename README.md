@@ -21,6 +21,7 @@
 [![GameJolt](https://img.shields.io/badge/-gamejolt-090909?style=for-the-badge&logo=game-jolt&logoColor=CCFF00)](https://gamejolt.com/@AzureLink)
 [![Tumblr](https://img.shields.io/badge/-tumblr-090909?style=for-the-badge&logo=tumblr&logoColor=36465D)](https://www.tumblr.com/blog/azurelink)
 [![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/G64hNqTSVs)
+[![CurseFoge](https://img.shields.io/badge/-curseforge-090909?style=for-the-badge&logo=curseforge&logoColor=6441A4)](https://discord.com/invite/G64hNqTSVs)
 ***
 ### Мои проекты:
 На данный момент все мои проекты - лишь те, которые я делаю для лабораторных заданий, или для зачётов. Но я надеюсь, что скоро я смогу начать делать свой первый отдельный проект, который может даже окажется полезным.
