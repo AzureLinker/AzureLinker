@@ -1,7 +1,7 @@
 # Всем привет!
 ## Я - Zian U.
 ***
-Я - один из членов команды AzureLink, и сейчас чусь в колледже на веб-разработчика. И сейчас я расскажу немного о себе, ну и дам какую-то информацию, которую я хочу дать:
+Веду свой YouTube проект, увлекаюсь различным творчеством.
 ***
 ### Немного из того, что предлагает указать GitHub:
 - Сейчас я изучаю javascript и php, ну и разные дополнительные всякие фреймворки. Также обучаюсь гиту.
@@ -17,14 +17,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ***
 ### Где меня можно найти:
-[![YouTube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/c/ZianU)
-[![GameJolt](https://img.shields.io/badge/-gamejolt-090909?style=for-the-badge&logo=game-jolt&logoColor=CCFF00)](https://gamejolt.com/@AzureLink)
-[![Tumblr](https://img.shields.io/badge/-tumblr-090909?style=for-the-badge&logo=tumblr&logoColor=36465D)](https://www.tumblr.com/blog/azurelink)
-[![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/G64hNqTSVs)
-[![CurseFoge](https://img.shields.io/badge/-curseforge-090909?style=for-the-badge&logo=curseforge&logoColor=6441A4)](https://discord.com/invite/G64hNqTSVs)
+Данный пункт скоро будет обновлён.
 ***
 ### Мои проекты:
-На данный момент все мои проекты - лишь те, которые я делаю для лабораторных заданий, или для зачётов. Но я надеюсь, что скоро я смогу начать делать свой первый отдельный проект, который может даже окажется полезным.
+Данный пункт скоро будет обновлён.
 ***
 ### Сатистика GitHub:
 <p align='center'>
